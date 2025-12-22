@@ -1,3 +1,3 @@
-module protos
+module github.com/eanufrienko/protos
 
-go 1.25
+go 1.22
